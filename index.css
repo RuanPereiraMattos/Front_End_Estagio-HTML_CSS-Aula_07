@@ -1,0 +1,28 @@
+.sobre-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
+}
+
+.sobre-img, .sobre-texto {
+  width: 50%;
+}
+
+.sobre-img img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.sobre-texto {
+  text-align: left;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    color: white;
+    margin-top: 20px;
+}
