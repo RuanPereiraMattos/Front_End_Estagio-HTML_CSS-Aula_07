@@ -68,6 +68,29 @@ figure img {
 .card-content p {
   font-weight: bold;
 }
+
+.card-price {
+  display: block;
+  font-weight: bold;
+  color: #222;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+.card-btn {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  background: #A61C3C;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.card-btn:hover {
+  background: #8e1833;
+}
  
 footer {
   background: #A61C3C;
