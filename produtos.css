@@ -56,8 +56,12 @@ figure img {
  
 .card-content {
   padding: 15px;
-  text-align: justify;
-  text-justify: inter-word;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
 }
  
 .card-content h2 {
